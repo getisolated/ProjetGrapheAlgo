@@ -1,4 +1,4 @@
-Bienvenue sur l'application implémentant les algorithmes de la théorie des graphes.
+# Bienvenue sur l'application implémentant les algorithmes de la théorie des graphes.
 
 Pour exécuter les algorithmes vous devrez d'abord importer le graphe:
     - sous forme de matrice d'adjacente
